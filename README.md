@@ -1,4 +1,4 @@
-![snake gif](https://github.com/MstrCrl/MstrCrl/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/carlvictoria/carlvictoria/blob/output/github-snake-dark.svg)
 
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=carlvictoria&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 📈 Activity
-![](https://github-readme-activity-graph.vercel.app/graph?username=MstrCrl&theme=github-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=carlvictoria&theme=github-dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=carlvictoria&limit=5&theme=dark&combine_all_yearly_contributions=true)
